@@ -1,7 +1,8 @@
 # BotAI_Minecraft
 Bot z wykorzystaniem api Cohere do Minecraft
 
-Posiada funkcję pisania na chacie
+Posiada funkcję:
+pisania na chacie
 wykopania bloku
 podejscia do gracza obok
 chodzenia luźno po świecie
